@@ -22,3 +22,9 @@ This project is a small demonstration of:
 - Using APIs in WPF
 - Separating logic with MVVM
 - Building lightweight desktop apps
+
+## Screenshots
+
+Here is an example screenshot of the application:
+
+![App Screenshot](screenshot/example.png)
